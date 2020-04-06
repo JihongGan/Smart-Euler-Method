@@ -1,3 +1,3 @@
 # Smart-Euler-Method
 
-The is the first project by Jihong Gan for MATH229 at Wesleyan University.
+The is the first project of MATH229 at Wesleyan University by Jihong Gan.
