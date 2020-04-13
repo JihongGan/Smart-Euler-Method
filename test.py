@@ -17,7 +17,7 @@ def f1(t, y):
 # assert math.isclose(yf, 3.59587, rel_tol=1e-2)
 
 start = time.time()
-yf = improved_euler(hinit = 0.1, t0 = 0, y0 = 1, f = f1, tf= 1.0, tor = 0.001)
+yf = improved_euler(hinit = 0.1, t0 = 0, y0 = 1, f = f1, tf= 1.0, tor = 1.0)
 print('improved euler outputs: ', yf)
 print('improved euler spends', time.time() - start, 'seconds')
 
